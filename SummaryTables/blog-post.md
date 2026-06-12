@@ -43,16 +43,14 @@ Fit multivariable linear, logistic, or Cox regression models.
 Run separate univariable linear, logistic, or Cox regression models for each predictor.
 ![Univariable Regression](https://raw.githubusercontent.com/NourEdinDarwish/jamovi-assets/main/SummaryTables/univariable-regression.png)
 
----
-
 ## Additional Features
 
-- **Save to Word:** Bypass the formatting headaches of copying tables into Word. Save any table directly to a natively formatted Word (.docx) document, ensuring perfect layout and styling for your manuscript.
-  ![Word Table](https://raw.githubusercontent.com/NourEdinDarwish/jamovi-assets/main/SummaryTables/word-table.png)
+### Save to Word
+Bypass the formatting headaches of copying tables into Word. Save any table directly to a natively formatted Word (.docx) document, ensuring perfect layout and styling for your manuscript.
+![Word Table](https://raw.githubusercontent.com/NourEdinDarwish/jamovi-assets/main/SummaryTables/word-table.png)
 
-- **Journal Formatting & Translations:** Choose from 16 supported languages and apply pre-built formatting themes tailored for major journals (JAMA, The Lancet, NEJM, QJE).
-
----
+### Journal Formatting & Translations
+Choose from 16 supported languages and apply pre-built formatting themes tailored for major journals (JAMA, The Lancet, NEJM, QJE).
 
 ## Help and Documentation
 

@@ -1,6 +1,6 @@
 # SummaryTables Module: Publication-Ready Summary Tables for jamovi
 
-We are excited to introduce **SummaryTables**, a new module available in the jamovi library designed to provide an elegant and flexible way to create publication-ready analytical and summary tables.
+We are excited to introduce **SummaryTables**, a new module available in the jamovi library designed to provide an easy, flexible, and elegant way to create publication-ready analytical and summary tables.
 
 Powered by the `gtsummary` package in R, this module bridges the gap between running your analyses and publishing them. Instead of piecing together multiple separate outputs into a final manuscript table, SummaryTables generates beautifully formatted, publication-ready tables directly within jamovi. By making complex analyses simple and accessible, it saves you valuable time and reduces the risk of transcription errors. It summarizes data sets, regression models, and more, using sensible defaults while offering highly customizable capabilities.
 
@@ -40,16 +40,18 @@ Fit multivariable linear, logistic, or Cox regression models.
 
 ### 7. Univariable Regression
 
-Run separate univariable linear, logistic, or Cox regression models for each predictor.
+Run separate univariable linear, logistic, or Cox regression models for each predictor, seamlessly combined into a single, clean table.
 ![Univariable Regression](https://raw.githubusercontent.com/NourEdinDarwish/jamovi-assets/main/SummaryTables/univariable-regression.png)
 
 ## Additional Features
 
 ### Save to Word
-Bypass the formatting headaches of copying tables into Word. Save any table directly to a natively formatted Word (.docx) document, ensuring perfect layout and styling for your manuscript.
+
+Bypass the formatting headaches that come with copying and pasting jamovi tables into Word. Save your results directly to a natively formatted Word (.docx) document, preserving the same styling done in jamovi and ensuring a perfect layout for your manuscript.
 ![Word Table](https://raw.githubusercontent.com/NourEdinDarwish/jamovi-assets/main/SummaryTables/word-table.png)
 
 ### Journal Formatting & Translations
+
 Choose from 16 supported languages and apply pre-built formatting themes tailored for major journals (JAMA, The Lancet, NEJM, QJE).
 
 ## Help and Documentation
